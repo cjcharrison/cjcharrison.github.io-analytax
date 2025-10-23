@@ -23,7 +23,7 @@ email: chris@vibetax.dev
 description: >- # this means to ignore newlines until "baseurl:"
   Vibe Tax - Exploring the intersection of technology, finance, and digital innovation.
   A blog about modern tech trends, financial insights, and the vibrant digital economy.
-baseurl: "/vibetax" # the subpath of your site, e.g. /blog
+baseurl: "/cjcharrison.github.io-vibetax" # the subpath of your site, e.g. /blog
 url: "https://cjcharrison.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: cjcharrison
 github_username: cjcharrison
