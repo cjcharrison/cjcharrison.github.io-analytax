@@ -4,15 +4,14 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Welcome to **Vibe Tax** - a blog exploring the intersection of technology, finance, and digital innovation.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Here you'll find insights on:
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+- Modern tech trends and emerging technologies
+- Financial technology and digital payments
+- The evolving digital economy
+- Developer tools and productivity
+- Tech industry analysis and commentary
 
-
-[jekyll-organization]: https://github.com/jekyll
+Stay tuned for regular updates on the topics that matter in today's fast-paced digital world.
