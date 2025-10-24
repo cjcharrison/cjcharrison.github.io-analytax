@@ -7,14 +7,16 @@ layout: home
 
 **Where tax meets technology** 🚀
 
-Analytax is your premier destination for insights into tax technology, digital transformation in accounting, and AI-powered tax solutions. We explore the cutting-edge intersection of taxation and technology, providing practical insights for tax professionals, tech vendors, and business leaders navigating this rapidly evolving landscape.
+A tax technology blog focused on analytics, machine learning, and data-driven approaches to tax and compliance. Exploring how advanced analytical techniques are transforming the way we handle tax processes, risk assessment, and regulatory challenges.
 
-## What We Cover
+Written for tax technologists who want to understand and implement analytical solutions in their tax technology stack.
 
-- **Tax Technology Trends** - The latest developments in tax software and automation
-- **AI & Machine Learning** - How artificial intelligence is transforming tax compliance
-- **Digital Transformation** - Strategies for modernizing tax and accounting processes  
-- **Fintech Innovation** - Emerging financial technologies impacting taxation
-- **Industry Analysis** - Deep dives into tax tech market developments
+## What You'll Find
+
+- **Tax Analytics in Practice** - Real implementations of machine learning for compliance and risk assessment
+- **Analytical Tax Tools** - Deep dives into platforms and technologies enabling data-driven tax decisions
+- **Time Series & Modeling** - Statistical approaches to tax forecasting, trend analysis, and pattern detection
+- **Tax Technology Reviews** - Analysis of tools and platforms with analytical capabilities
+- **Code & Implementation** - Practical examples, jupyter notebooks, and technical workflows for tax technologists
 
 ---
