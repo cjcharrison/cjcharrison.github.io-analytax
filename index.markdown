@@ -10,7 +10,6 @@ layout: home
 <div class="promise-callout" markdown="1">
 
 ### My Promise to Readers
-
 > Everything you'll read here comes from my own experience, thinking, and work.  
 > I sometimes use AI tools to help me research, test ideas, or express them clearly — but the substance, reasoning, and perspective are entirely my own.
 >
