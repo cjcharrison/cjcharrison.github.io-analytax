@@ -2,13 +2,6 @@
 layout: page
 title: About
 permalink: /about/
-description: "Learn about Analytax - where tax meets technology. Expert insights on tax tech, digital transformation, and AI-powered solutions."
----
-
----
-layout: page
-title: About
-permalink: /about/
 description: "About Analytax - tax technology blog focused on analytics, machine learning, and data-driven approaches for tax technologists."
 ---
 
@@ -55,8 +48,6 @@ Tax technologists, tax technology professionals, and those working at the inters
 ## About the Author
 
 Chris Harrison combines professional tax experience with a passion for analytics and machine learning, exploring how advanced analytical techniques can solve real challenges in tax technology and compliance.
-
-**Email**: [chris@analytax.ai](mailto:chris@analytax.ai)
 
 ---
 
