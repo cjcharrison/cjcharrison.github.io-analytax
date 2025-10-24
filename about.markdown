@@ -5,49 +5,56 @@ permalink: /about/
 description: "Learn about Analytax - where tax meets technology. Expert insights on tax tech, digital transformation, and AI-powered solutions."
 ---
 
-**Where tax meets technology** - Welcome to the intersection of taxation and innovation.
+---
+layout: page
+title: About
+permalink: /about/
+description: "About Analytax - tax technology blog focused on analytics, machine learning, and data-driven approaches for tax technologists."
+---
 
-## Our Mission
+**Where tax meets technology** - exploring the analytical side of tax tech.
 
-Analytax is your premier destination for insights into the rapidly evolving world of tax technology. We explore how digital transformation is reshaping the tax landscape, from AI-powered compliance tools to blockchain-based audit trails.
+## About This Blog
 
-## What We Cover
+Analytax focuses on the intersection of advanced analytics and tax technology. This is where tax technologists come to explore machine learning applications, data-driven compliance approaches, and analytical tools that are transforming how we handle tax processes.
 
-### **Tax Technology Innovation**
+## What You'll Find Here
 
-- AI and machine learning in tax compliance
-- Automated tax preparation and filing systems
-- Digital audit trails and blockchain applications
-- Cloud-based tax management platforms
+### **Tax Analytics & Machine Learning**
 
-### **Digital Transformation in Accounting**
+- Practical implementations of ML for compliance prediction and risk assessment
+- Statistical modeling approaches to tax forecasting and trend analysis
+- Pattern detection and anomaly identification in tax data
+- Time series analysis for tax planning and reporting
 
-- Modern accounting software and integrations
-- API-driven tax solutions
-- Real-time reporting and analytics
-- Mobile-first tax applications
+### **Analytical Tax Tools & Platforms**
 
-### **Regulatory Technology (RegTech)**
+- Deep dives into tax technology with analytical capabilities
+- Reviews of platforms enabling data-driven tax decisions
+- API integrations and data pipeline architectures
+- Cloud-based analytics solutions for tax departments
 
-- Compliance automation tools
-- Tax law changes and digital adaptation
-- Cross-border digital tax initiatives
-- Government digitization efforts
+### **Technical Implementation**
 
-### **Industry Analysis**
+- Code examples and jupyter notebooks
+- Step-by-step analytical workflows
+- Data visualization techniques for tax insights
+- Automation scripts and process optimization
 
-- Market trends in tax technology
-- Startup spotlights and funding news
-- Enterprise solution reviews
-- Future predictions and emerging tech
+### **Industry Perspective**
 
-## Why Analytax?
+- How analytical approaches are reshaping tax technology
+- Emerging trends in tax data science and automation
+- Regulatory technology with analytical foundations
+- Case studies of successful analytical tax implementations
 
-In an era where tax compliance is becoming increasingly complex while technology offers unprecedented solutions, staying informed is crucial. Whether you're a tax professional, technology vendor, startup founder, or simply curious about the intersection of tax and tech, Analytax provides the insights you need.
+## Who This Is For
 
-## Connect With Us
+Tax technologists, tax technology professionals, and those working at the intersection of tax and analytics who want to understand and implement data-driven approaches in their tax technology stack.
 
-Have a story idea, product launch, or industry insight to share? We'd love to hear from you.
+## About the Author
+
+Chris Harrison combines professional tax experience with a passion for analytics and machine learning, exploring how advanced analytical techniques can solve real challenges in tax technology and compliance.
 
 **Email**: [chris@analytax.ai](mailto:chris@analytax.ai)
 

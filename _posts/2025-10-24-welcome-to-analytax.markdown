@@ -3,8 +3,8 @@ layout: post
 title: "Welcome to Analytax - Where Tax Meets Technology"
 date: 2025-10-24 10:00:00 +0000
 categories: [introduction, tax-technology]
-tags: [tax-tech, digital-transformation, AI, fintech]
-description: "Introducing Analytax - your premier destination for insights into tax technology, digital transformation in accounting, and AI-powered tax solutions."
+tags: [tax-tech, tax-analytics, machine-learning, compliance-automation]
+description: "Introducing Analytax - a tax technology blog focused on analytics, machine learning applications, and data-driven approaches for tax technologists."
 author: Chris Harrison
 ---
 
