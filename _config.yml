@@ -1,85 +1,16 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
-#
-# If you need help with YAML syntax, here are some quick references for you:
-# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
-# https://learnxinyminutes.com/docs/yaml/
-#
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
-
+---
+layout: home
 title: Analytax
-description: >- # this means to ignore newlines until "baseurl:"
-  Tax technology blog focused on analytics and machine learning applications. 
-  For tax technologists exploring data-driven approaches to compliance, risk assessment, 
-  and regulatory challenges in modern tax technology stacks.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://analytax.ai" # the base hostname & protocol for your site, e.g. http://example.com
-
-# Build settings
-theme: minima
-plugins:
-  - jekyll-feed
-  - jekyll-sitemap
-  - jekyll-seo-tag
-
-# SEO and social media
-author: Chris Harrison
 tagline: "Where tax meets technology"
-keywords: "tax technology, tax analytics, compliance automation, tax machine learning, regulatory technology, tax data analysis, tax technologist"
+---
 
-# Additional SEO settings
-lang: en_US
-timezone: UTC
+## My Promise to Readers
+{: .promise }
 
-# Social media defaults
-defaults:
-  - scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "post"
-      author: "Chris Harrison"
-      image: /assets/images/default-post-image.jpg # Add when you have one
-  - scope:
-      path: ""
-      type: "pages"
-    values:
-      layout: "page"
-      author: "Chris Harrison"
-
-# Google Analytics (add your tracking ID when ready)
-# google_analytics: G-XXXXXXXXXX
-
-# Exclude from processing.
-# The following items will not be processed, by default.
-# Any item listed under the `exclude:` key here will be automatically added to
-# the internal "default list".
-#
-# Excluded items can be processed by explicitly listing the directories or
-# their entries' file path in the `include:` list.
-#
-exclude:
-  - .sass-cache/
-  - .jekyll-cache/
-  - gemfiles/
-  - Gemfile
-  - Gemfile.lock
-  - WARP.md
-  - vendor/
-  - README.md
-#   - node_modules/
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+> Everything you’ll read here comes from my own experience, thinking, and work.  
+> I sometimes use AI tools to help me research, test ideas, or express them clearly — but the substance, reasoning, and perspective are entirely my own.  
+>
+> I’m deeply interested in data science and AI, and my work in tax provides rich opportunities for exploring meaningful, real-world applications of both.  
+> This site is where I share those explorations — combining technical curiosity with practical domain expertise.  
+>
+> I won’t publish anything unless I understand it, believe in it, and consider it genuinely relevant to the evolving world of tax technology.
