@@ -58,8 +58,8 @@ defaults:
       layout: "page"
       author: "Chris Harrison"
 
-# Google Analytics (add your tracking ID when ready)
-# google_analytics: G-XXXXXXXXXX
+# Google Analytics
+google_analytics: G-9PLL0B3YWZ
 
 # Exclude from processing.
 # The following items will not be processed, by default.
