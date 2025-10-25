@@ -15,7 +15,7 @@ I created **Analytax** to explore how **data literacy, data science, and AI** ca
 
 This isn’t consultant-grade rhetoric. It’s **real analytics, real technology, and real examples**—for people who like to experiment and build, not just talk. If you prefer execution to grand strategy and enjoy learning new tools hands-on, you’ll feel at home here.
 
-**My promise to readers:** Everything here comes from my own experience and work. I may use AI to research, test, or clarify, but the substance and perspective are my own. I publish only what I understand, believe in, and consider genuinely relevant to the evolving world of tax technology—where technical curiosity meets practical domain expertise.
+**My promise to readers:** Everything here comes from my own experience, interests and inspiration. I may use AI to research, test, or clarify, but the substance and perspective are my own. I publish only what I understand, believe in, and consider genuinely relevant to the evolving world of tax technology—where technical curiosity meets practical domain expertise.
 
 Over time, I’ll share practical artefacts—**code, models, notebooks, and reflections**—that you can adapt freely in your own workflows. Analytax starts as a blog and grows into a place to share **ideas, examples, and lessons from the front line of change**.
 
