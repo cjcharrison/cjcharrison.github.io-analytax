@@ -49,6 +49,8 @@ Tax technologists, tax technology professionals, and those working at the inters
 
 Chris Harrison combines professional tax experience with a passion for analytics and machine learning, exploring how advanced analytical techniques can solve real challenges in tax technology and compliance.
 
+**[More about Chris &rarr;](/author/)**
+
 ---
 
 *Analytax - Where tax meets technology* 🚀
