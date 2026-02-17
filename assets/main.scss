@@ -141,6 +141,26 @@ code {
   }
 }
 
+// Start here callout
+.start-here {
+  background: #f7fafc;
+  border: 1px solid #e2e8f0;
+  border-radius: 8px;
+  padding: 1rem 1.5rem;
+  margin: 1.5rem 0 2rem;
+  font-size: 0.95rem;
+  line-height: 1.7;
+
+  p {
+    margin-bottom: 0;
+  }
+
+  a {
+    color: #2c5aa0;
+    font-weight: 500;
+  }
+}
+
 // Promise callout styling
 .promise-callout {
   background: linear-gradient(135deg, #f6f8fb 0%, #e9ecf3 100%);

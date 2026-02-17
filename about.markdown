@@ -45,12 +45,16 @@ Analytax focuses on the intersection of advanced analytics and tax technology. T
 
 Tax technologists, tax technology professionals, and those working at the intersection of tax and analytics who want to understand and implement data-driven approaches in their tax technology stack.
 
+## A Note on How I Work
+
+Everything you'll read here comes from my own experience, thinking, and work. I sometimes use AI tools to help me research, test ideas, or express them clearly — but the substance, reasoning, and perspective are entirely my own.
+
+I'm deeply interested in data science and AI, and my work in tax provides rich opportunities for exploring meaningful, real-world applications of both. This site is where I share those explorations — combining technical curiosity with practical domain expertise.
+
+I won't publish anything unless I understand it, believe in it, and consider it genuinely relevant to the evolving world of tax technology.
+
 ## About the Author
 
 Chris Harrison combines professional tax experience with a passion for analytics and machine learning, exploring how advanced analytical techniques can solve real challenges in tax technology and compliance.
 
 **[More about Chris &rarr;](/author/)**
-
----
-
-*Analytax - Where tax meets technology* 🚀

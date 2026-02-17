@@ -5,33 +5,12 @@
 layout: home
 ---
 
-**Where tax meets technology** 🚀
+Practical analytics, machine learning, and data science — applied to real tax problems. Written by a tax professional, for tax professionals who want to build things, not just read about them.
 
-<div class="promise-callout" markdown="1">
+Code, notebooks, and worked examples throughout. **[About this blog &rarr;](/about/)**
 
-### My Promise to Readers
-> Everything you'll read here comes from my own experience, thinking, and work.  
-> I sometimes use AI tools to help me research, test ideas, or express them clearly — but the substance, reasoning, and perspective are entirely my own.
->
-> I'm deeply interested in data science and AI, and my work in tax provides rich opportunities for exploring meaningful, real-world applications of both.  
-> This site is where I share those explorations — combining technical curiosity with practical domain expertise.
->
-> I won't publish anything unless I understand it, believe in it, and consider it genuinely relevant to the evolving world of tax technology.
+<div class="start-here" markdown="1">
+
+**New here?** This blog builds progressively — each post extends what came before. Start with the [overview of how tax analytics has evolved]({% post_url 2025-11-16-tax-analytics-transformation %}), then move into [what regression is and why it matters for tax]({% post_url 2026-02-07-regression-explained-for-tax %}). Or if you want to get hands-on with Python straight away, the [guide to building synthetic tax datasets]({% post_url 2025-11-03-why-we-start-with-synthetic-data %}) is a good starting point.
 
 </div>
-
----
-
-A tax technology blog focused on analytics, machine learning, and data-driven approaches to tax and compliance. Exploring how advanced analytical techniques are transforming the way we handle tax processes, risk assessment, and regulatory challenges.
-
-Written for tax technologists who want to understand and implement analytical solutions in their tax technology stack.
-
-## What You'll Find
-
-- **Tax Analytics in Practice** - Real implementations of machine learning for compliance and risk assessment
-- **Analytical Tax Tools** - Deep dives into platforms and technologies enabling data-driven tax decisions
-- **Time Series & Modeling** - Statistical approaches to tax forecasting, trend analysis, and pattern detection
-- **Tax Technology Reviews** - Analysis of tools and platforms with analytical capabilities
-- **Code & Implementation** - Practical examples, jupyter notebooks, and technical workflows for tax technologists
-
----
