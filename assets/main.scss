@@ -11,14 +11,17 @@
 }
 
 .site-title {
-  font-weight: 700;
-  font-size: 32px;
-  color: #1a365d !important;
   text-decoration: none !important;
-  
+
   &:hover {
-    color: #2c5aa0 !important;
+    opacity: 0.85;
   }
+}
+
+.site-logo {
+  height: 56px;
+  width: auto;
+  vertical-align: middle;
 }
 
 .site-nav {
