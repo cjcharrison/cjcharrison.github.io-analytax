@@ -76,6 +76,7 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - WARP.md
+  - CLAUDE.md
   - vendor/
   - README.md
 #   - node_modules/
