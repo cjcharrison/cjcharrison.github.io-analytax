@@ -9,15 +9,12 @@ description: "Chris Harrison – Tax Technology Senior Manager specialising in d
 <div class="cv-hero">
   <div class="cv-hero-text">
     <div class="cv-subtitle">Tax Technology &amp; Data Analytics</div>
-    <h1 class="cv-h1">Leading tax data product strategy and building analytical tools for complex, regulated environments</h1>
+    <h1 class="cv-h1">Leading tax data product strategy in regulated environments</h1>
     <p>
-      Tax Technology Senior Manager at Vodafone Group, leading product strategy and direction
-      for a dedicated Data &amp; Analytics squad delivering tax data initiatives &mdash; defining
-      what to build, partnering with the squad to deliver it, and prototyping directly in
-      Python and SQL where that&rsquo;s the fastest path to proving value. Comfortable on both
-      sides of the conversation: writing epics, stories and acceptance criteria, and reviewing
-      the data models and code that underpin them. Speaker at the
-      ITR AI in Tax Forum and author at
+      Tax Technology Senior Manager at Vodafone Group, leading tax data product strategy for a
+      Data &amp; Analytics squad. I set priorities, shape delivery, and prototype in Python and
+      SQL to prove value quickly, bridging product requirements with data models and code.
+      Speaker at the ITR AI in Tax Forum and author at
       <a href="https://analytax.ai">analytax.ai</a>.
     </p>
     <div class="cv-contact">
