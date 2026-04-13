@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(pandoc /Users/chrisharrison/Documents/Careers/Chris_Harrison_CV_130426.docx -o /dev/stdout)",
+      "Bash(python3 -c ':*)"
+    ]
+  }
+}

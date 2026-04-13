@@ -2,18 +2,22 @@
 layout: cv
 title: Author
 permalink: /author/
-description: "Chris Harrison – Tax Technology Senior Manager and Product Manager specialising in data-driven reporting solutions, analytics platforms and regulatory compliance tooling."
+description: "Chris Harrison – Tax Technology Senior Manager specialising in data analytics, machine learning and LLM applications for tax compliance and risk."
 ---
 
 <!-- Hero -->
 <div class="cv-hero">
   <div class="cv-hero-text">
-    <div class="cv-subtitle">Tax Technology &amp; Product Management</div>
-    <h1 class="cv-h1">Building data-driven reporting products for complex, regulated environments</h1>
+    <div class="cv-subtitle">Tax Technology &amp; Data Analytics</div>
+    <h1 class="cv-h1">Leading tax data product strategy and building analytical tools for complex, regulated environments</h1>
     <p>
-      I translate tax and compliance requirements into product strategies, PRDs and roadmaps
-      &mdash; then work with engineering, data and design teams to ship them. Hands-on builder
-      with Python, SQL and Streamlit. Speaker and writer at
+      Tax Technology Senior Manager at Vodafone Group, leading product strategy and direction
+      for a dedicated Data &amp; Analytics squad delivering tax data initiatives &mdash; defining
+      what to build, partnering with the squad to deliver it, and prototyping directly in
+      Python and SQL where that&rsquo;s the fastest path to proving value. Comfortable on both
+      sides of the conversation: writing epics, stories and acceptance criteria, and reviewing
+      the data models and code that underpin them. Speaker at the
+      ITR AI in Tax Forum and author at
       <a href="https://analytax.ai">analytax.ai</a>.
     </p>
     <div class="cv-contact">
@@ -26,8 +30,8 @@ description: "Chris Harrison – Tax Technology Senior Manager and Product Manag
   </div>
   <div class="cv-stats">
     <div class="cv-stat">
-      <div class="cv-stat-number">10+</div>
-      <div class="cv-stat-label">Years in Tax Tech</div>
+      <div class="cv-stat-number">20+</div>
+      <div class="cv-stat-label">Years in Tax &amp; Tech</div>
     </div>
     <div class="cv-stat">
       <div class="cv-stat-number">20+</div>
@@ -52,16 +56,16 @@ description: "Chris Harrison – Tax Technology Senior Manager and Product Manag
   <!-- Skills cards -->
   <div class="cv-card">
     <div class="cv-card-header" onclick="toggleCvCard(this)">
-      <h3>Product Management</h3>
+      <h3>Tax Data Product Strategy</h3>
       <span class="cv-toggle">&#9660;</span>
     </div>
     <div class="cv-card-summary">
-      <p>Strategy, roadmaps, PRDs, backlog prioritisation and stakeholder alignment across engineering, data, design and compliance.</p>
+      <p>Strategy, roadmaps, backlog prioritisation and stakeholder alignment across engineering, data, design and compliance.</p>
     </div>
     <div class="cv-card-detail">
       <ul>
-        <li>Own end-to-end product roadmaps for tax reporting and analytics products</li>
-        <li>Write PRDs, define user stories and acceptance criteria</li>
+        <li>Built the case for and secured a dedicated tax-focused D&amp;A squad</li>
+        <li>Write epics, user stories and acceptance criteria; review data models and code</li>
         <li>Prioritise backlogs and align delivery with D&amp;A engineering squads</li>
         <li>Drive adoption through stakeholder engagement, training and change management</li>
       </ul>
@@ -92,13 +96,14 @@ description: "Chris Harrison – Tax Technology Senior Manager and Product Manag
       <span class="cv-toggle">&#9660;</span>
     </div>
     <div class="cv-card-summary">
-      <p>Python, SQL, BigQuery, Streamlit dashboards, anomaly detection, data warehousing and ETL pipeline design.</p>
+      <p>Python, SQL, BigQuery, Streamlit dashboards, anomaly detection, ML classification, LLM integration and data warehousing on GCP.</p>
     </div>
     <div class="cv-card-detail">
       <ul>
-        <li>Tax data warehouse in Google BigQuery (SAP, HFM, Concur sources)</li>
-        <li>Multiple Streamlit web apps for risk detection and compliance monitoring</li>
-        <li>Tax Risk Register application replacing spreadsheet-based processes</li>
+        <li>Tax Risk Register &mdash; Streamlit app on GCP with BigQuery time-series data model and LLM-powered text-to-SQL querying via Gemini</li>
+        <li>VAT anomaly detection using Prophet-based forecasting in quarterly review cycles</li>
+        <li>Intelligent transaction classification &mdash; ML/LLM feasibility for automating tax-deductibility classification</li>
+        <li>Leading tax&rsquo;s role in Vodafone&rsquo;s Unified Semantic Layer (SAP Datasphere)</li>
         <li>API integrations to extract data from third-party software</li>
       </ul>
     </div>
@@ -133,29 +138,30 @@ description: "Chris Harrison – Tax Technology Senior Manager and Product Manag
       <div class="cv-tl-card">
         <div class="cv-tl-head" onclick="toggleCvTl(this)">
           <div class="cv-tl-head-left">
-            <div class="cv-tl-role">Tax Technology Senior Manager / Product Manager</div>
-            <div class="cv-tl-org">Vodafone Group Services, London</div>
+            <div class="cv-tl-role">Tax Technology Senior Manager</div>
+            <div class="cv-tl-org">Vodafone Group Services, Newbury &amp; London</div>
           </div>
           <span class="cv-tl-dates">Feb 2022 &ndash; Present</span>
           <span class="cv-tl-toggle">&#9660;</span>
         </div>
-        <div class="cv-tl-summary">Dual role: tax technology strategy and hands-on product management for tax data products, embedded within Group Data &amp; Analytics.</div>
+        <div class="cv-tl-summary">Hands-on tax technology lead within Group Tax, working at the boundary between tax, finance and Group Data &amp; Analytics. Defines tax data product strategy, prototypes solutions in Python/SQL, and partners with Group D&amp;A to deliver them at scale.</div>
         <div class="cv-tl-detail">
-          <p class="cv-sub-label">Product &amp; Strategy</p>
+          <p class="cv-sub-label">Strategy &amp; Squad</p>
           <ul>
-            <li>Led the development and implementation of Vodafone&rsquo;s tax technology and data strategy across its global footprint &mdash; covering data management, tooling, analytics and processes</li>
-            <li>Own the product roadmap for a portfolio of tax reporting and analytics products serving the Group Tax reporting function</li>
+            <li>Built the case for a dedicated tax-focused D&amp;A squad &mdash; after several years of proving value through pilots, secured senior sponsorship to formalise a dedicated squad of developers focused exclusively on tax</li>
+            <li>Leading tax&rsquo;s role in the Unified Semantic Layer &mdash; identifying and prioritising tax datasets for D&amp;A&rsquo;s Unified Semantic Layer (SAP Datasphere), replacing duplicate static Excel extracts with live, governed, self-service access to consistent data</li>
             <li>Involved across all aspects of Group Tax reporting &mdash; compliance, risk management, management reporting and ad-hoc analysis</li>
-            <li>Managed data scientists and D&amp;A engineering squads to execute projects delivering on identified opportunities</li>
           </ul>
           <p class="cv-sub-label">Build &amp; Deliver</p>
           <ul>
-            <li>Designed and built a Tax Risk Register app in Streamlit, enabling local markets and Group Tax to log, track and analyse tax risks &mdash; replacing spreadsheet-based processes</li>
+            <li>Tax Risk Register (Streamlit on GCP) &mdash; designed and built a web application replacing a legacy SharePoint list used by ~100 tax staff across ~20 markets, with a time-stamped movement table in BigQuery and LLM-powered text-to-SQL querying via Gemini</li>
+            <li>Intelligent transaction classification &mdash; prototyped ML/LLM approach in Jupyter for automating tax-deductibility classification; currently in feasibility with D&amp;A squad</li>
+            <li>VAT anomaly detection &mdash; Prophet-based forecasting tool for input and output VAT, used in quarterly review cycles to surface unexpected movements that rule-based controls miss</li>
             <li>Delivered a tax data warehouse in Google BigQuery, consolidating data from SAP, HFM, Concur and other source systems for optimised storage, analysis and reporting (incl. CbCR and Pillar II)</li>
             <li>Built multiple Streamlit dashboards for risk detection, anomaly identification and compliance monitoring</li>
             <li>Integrated third-party software via APIs to extract and consolidate data into reporting pipelines</li>
             <li>Analysis of large financial data sets using SQL, Python and Alteryx</li>
-            <li>Presentation of data and insights via dashboards in Power BI, Qlik and Python</li>
+            <li>Presentation of data and insights via dashboards in Power BI and Python</li>
           </ul>
           <p class="cv-sub-label">Adoption &amp; Governance</p>
           <ul>
@@ -173,8 +179,8 @@ description: "Chris Harrison – Tax Technology Senior Manager and Product Manag
     <div class="cv-tl-node milestone active">
       <div class="cv-tl-dot"></div>
       <div class="cv-tl-milestone-card">
-        <div class="cv-tl-role">Speaker &mdash; ITR AI in Tax Forum 2025</div>
-        <div class="cv-tl-org">Invited back for 2026. AI, automation and data strategy for tax.</div>
+        <div class="cv-tl-role">Speaker &mdash; ITR AI in Tax Forum, London</div>
+        <div class="cv-tl-org">Main-stage speaker 2025; invited back 2026. 2026 talk: &ldquo;From Rules to Models &mdash; How Data, Statistics and AI Are Reshaping Tax Analytics&rdquo;</div>
       </div>
     </div>
 
@@ -183,7 +189,7 @@ description: "Chris Harrison – Tax Technology Senior Manager and Product Manag
       <div class="cv-tl-dot"></div>
       <div class="cv-tl-milestone-card">
         <div class="cv-tl-role">Launched analytax.ai blog</div>
-        <div class="cv-tl-org">Tax, data analytics, AI and crypto tax reporting</div>
+        <div class="cv-tl-org">Tax technology, data analytics, machine learning and LLM applications in compliance and risk</div>
       </div>
     </div>
 
@@ -202,17 +208,17 @@ description: "Chris Harrison – Tax Technology Senior Manager and Product Manag
       <div class="cv-tl-card">
         <div class="cv-tl-head" onclick="toggleCvTl(this)">
           <div class="cv-tl-head-left">
-            <div class="cv-tl-role">Senior International Tax Manager</div>
+            <div class="cv-tl-role">International Tax Manager</div>
             <div class="cv-tl-org">Vodafone Global Enterprise, Newbury &amp; London</div>
           </div>
           <span class="cv-tl-dates">Dec 2014 &ndash; Feb 2022</span>
           <span class="cv-tl-toggle">&#9660;</span>
         </div>
-        <div class="cv-tl-summary">Business partnering, risk management and compliance across a global multi-market footprint. Initially joined as Tax Solutions Analyst.</div>
+        <div class="cv-tl-summary">International tax business partner for Vodafone Business. Joined as Tax Solutions Analyst; progressed through compliance, risk and product advisory work. Began the move into data and technology in this period.</div>
         <div class="cv-tl-detail">
           <p class="cv-sub-label">Business Partnering &amp; Product Advisory</p>
           <ul>
-            <li>Partnered with product managers and commercial teams to facilitate global roll-out of new customer products (IoT, Cloud &amp; Hosting) in a tax-efficient and risk-mitigated way</li>
+            <li>Partnered with product managers and commercial teams on the global rollout of new IoT, Cloud and Hosting products &mdash; translating tax and contracting requirements into deliverable product designs</li>
             <li>Developed tax-efficient contracting models for new technical products</li>
             <li>Reviewed cross-border commercial contracts and negotiations with enterprise customers and suppliers</li>
             <li>Organised and chaired global tax webinars with tax teams across Vodafone Group and Local Markets</li>
@@ -221,17 +227,16 @@ description: "Chris Harrison – Tax Technology Senior Manager and Product Manag
           </ul>
           <p class="cv-sub-label">Data, Risk &amp; Technology</p>
           <ul>
+            <li>Built the first iteration of Vodafone&rsquo;s global tax risk register on SharePoint with Power Automate workflows &mdash; the predecessor system that the current Streamlit/BigQuery product is replacing</li>
             <li>Worked with Group BI and Analytics Product Managers to develop tools for data-driven tax risk monitoring</li>
-            <li>Implemented global tax risk register on SharePoint with associated automation</li>
             <li>Automated CFC data gathering and calculations using Alteryx</li>
             <li>Piloted automation and data-driven strategies aligned to Vodafone Tech 2025 ambition</li>
             <li>Management of global tax risks and implementation of tax technology to monitor risk</li>
           </ul>
           <p class="cv-sub-label">Compliance &amp; Reporting</p>
           <ul>
+            <li>Managed compliance, transfer pricing documentation and tax authority investigations across the European footprint, coordinating VOIS shared services and KPMG</li>
             <li>Managed simultaneous compliance for legal entities across Vodafone Business&rsquo;s European footprint with statutory deadlines</li>
-            <li>Coordinated internal (VOIS) and external stakeholders (KPMG)</li>
-            <li>Prepared local transfer pricing documentation and managed tax authority investigations across 20+ markets</li>
             <li>Internal tax reporting submissions and automation of provision calculations</li>
             <li>Led R&amp;D tax relief claims for innovative projects including Project Nucleus</li>
           </ul>
@@ -300,7 +305,7 @@ description: "Chris Harrison – Tax Technology Senior Manager and Product Manag
       <div class="cv-tl-dot"></div>
       <div class="cv-tl-milestone-card">
         <div class="cv-tl-role">Chartered Tax Adviser (CTA) &mdash; 2009</div>
-        <div class="cv-tl-org">ATT with commendation in Accounting &mdash; 2007</div>
+        <div class="cv-tl-org">ATT with Commendation in Accounting &mdash; 2007</div>
       </div>
     </div>
 
@@ -370,15 +375,16 @@ description: "Chris Harrison – Tax Technology Senior Manager and Product Manag
         <div class="cv-tl-head" onclick="toggleCvTl(this)">
           <div class="cv-tl-head-left">
             <div class="cv-tl-role">Research Scientist</div>
-            <div class="cv-tl-org">BAE Systems, Bristol</div>
+            <div class="cv-tl-org">BAE Systems Advanced Technology Centre, Bristol</div>
           </div>
           <span class="cv-tl-dates">Jan 2003 &ndash; Apr 2005</span>
           <span class="cv-tl-toggle">&#9660;</span>
         </div>
-        <div class="cv-tl-summary">Technical consultant to business units. Chairman&rsquo;s Award for innovation. Security clearance under the Official Secrets Act.</div>
+        <div class="cv-tl-summary">Research scientist in BAE&rsquo;s experimental optics and laser group, working as a technical consultant to business units across the Corporation. Chairman&rsquo;s Award for innovation; security clearance under the Official Secrets Act.</div>
         <div class="cv-tl-detail">
           <ul>
             <li>Acted as a Technical Consultant to business units within and outside the Corporation</li>
+            <li>Projects included using lasers to relieve residual stresses in friction stir welds</li>
             <li>Generated innovative solutions and problem solving &mdash; received a Chairman&rsquo;s Award for innovation</li>
             <li>Planned and managed projects in conjunction with customers to a budget, monitoring and preparing interim status reports</li>
             <li>Written reporting and oral presentation of solutions to high-profile defence clients</li>
@@ -420,11 +426,11 @@ description: "Chris Harrison – Tax Technology Senior Manager and Product Manag
     <div class="cv-speaking-grid">
       <div class="cv-speaking-item">
         <h4>ITR AI in Tax Forum</h4>
-        <p>Speaker 2025 &amp; invited 2026. AI, automation and data strategy for tax.</p>
+        <p>Main-stage speaker 2025; invited back 2026. 2026 talk: &ldquo;From Rules to Models &mdash; How Data, Statistics and AI Are Reshaping Tax Analytics&rdquo;.</p>
       </div>
       <div class="cv-speaking-item">
         <h4>analytax.ai</h4>
-        <p>Blog on tax, data analytics, AI-driven compliance and crypto tax reporting.</p>
+        <p>Ongoing blog on tax technology, data analytics, machine learning and LLM applications in compliance and risk.</p>
       </div>
     </div>
   </div>
@@ -437,15 +443,20 @@ description: "Chris Harrison – Tax Technology Senior Manager and Product Manag
     <div class="cv-tech-pills">
       <span class="cv-pill">Python</span>
       <span class="cv-pill">pandas</span>
-      <span class="cv-pill">Streamlit</span>
+      <span class="cv-pill">Prophet</span>
+      <span class="cv-pill">scikit-learn</span>
       <span class="cv-pill">SQL</span>
       <span class="cv-pill">BigQuery</span>
       <span class="cv-pill">GCP</span>
+      <span class="cv-pill">Streamlit</span>
+      <span class="cv-pill">Dash / Flask</span>
       <span class="cv-pill">Git</span>
-      <span class="cv-pill">Alteryx</span>
-      <span class="cv-pill">Power Platform</span>
-      <span class="cv-pill">Tableau</span>
       <span class="cv-pill">REST APIs</span>
+      <span class="cv-pill">Alteryx</span>
+      <span class="cv-pill">Power BI</span>
+      <span class="cv-pill">Google Looker</span>
+      <span class="cv-pill">Power Platform</span>
+      <span class="cv-pill">SAP Datasphere</span>
       <span class="cv-pill">Excel</span>
     </div>
   </div>
@@ -457,8 +468,8 @@ description: "Chris Harrison – Tax Technology Senior Manager and Product Manag
     </div>
     <div class="cv-quals-list">
       <div class="cv-qual-row">
-        <span class="cv-qual-title">Chartered Tax Adviser (CTA) &amp; ATT</span>
-        <span class="cv-qual-detail">Commendation in Accounting</span>
+        <span class="cv-qual-title">Chartered Tax Adviser (CTA) &mdash; 2009</span>
+        <span class="cv-qual-detail">ATT with Commendation in Accounting &mdash; 2007</span>
       </div>
       <div class="cv-qual-row">
         <span class="cv-qual-title">BSc (Hons) Physics, First Class</span>
